@@ -10,3 +10,76 @@ git status -> Me fijo los cambios
 git add .
 git commit -m "Comentario"
 git push -u origin nombre_de_la_rama
+
+Comandos Cisa Nahuel 
+
+ 1  git clone https://github.com/xaxwtf/TP_SO_i3_Equipo6
+    2  git checkout -b cisa
+    3  git push 
+    4  git push --set-upstream origin cisa
+    5  git add -
+    6  git add .
+    7  git add
+    8  git add .
+    9  git status
+   10  git commit -m "Mi commit"
+   11  git config --global user.email "nahuelcisa@hotmail.com"
+   12  git config --global user.name "Nahuel Cisa"
+   13  git commit -m "Mi Commit"
+   14  git push
+   15  git status
+   16  git add .
+   17  git status
+   18  git commit -m "Mi Commit 2"
+   19  git push
+   20  git status
+   21  git push
+   22  git push -u cisa
+   23  git push -u origin cisa
+   24  git status
+   25  git push -u origin cisa
+   26  git push -f origin cisa
+   27  history
+   28  history > ComandosCisa.txt
+    1  git clone https://github.com/xaxwtf/TP_SO_i3_Equipo6
+    2  git checkout -b cisa
+    3  git push 
+    4  git push --set-upstream origin cisa
+    5  git add -
+    6  git add .
+    7  git add
+    8  git add .
+    9  git status
+   10  git commit -m "Mi commit"
+   11  git config --global user.email "nahuelcisa@hotmail.com"
+   12  git config --global user.name "Nahuel Cisa"
+   13  git commit -m "Mi Commit"
+   14  git push
+   15  git status
+   16  git add .
+   17  git status
+   18  git commit -m "Mi Commit 2"
+   19  git push
+   20  git status
+   21  git push
+   22  git push -u cisa
+   23  git push -u origin cisa
+   24  git clone -b Limachi https://github.com/xaxwtf/TP_SO_i3_Equipo6
+   25  git clone -b Limachi https://github.com/xaxwtf/TP_SO_i3_Equipo6
+   26  git clone Limachi https://github.com/xaxwtf/TP_SO_i3_Equipo6
+   27  git clone -b Limachi https://github.com/xaxwtf/TP_SO_i3_Equipo6
+   28  git clone -b Limachi --single-branch https://github.com/xaxwtf/TP_SO_i3_Equipo6
+   29  git status
+   30  git push -u origin cisa
+   31  git push -f origin cisa
+   32  history
+   33  history > ComandosCisa.txt
+   34  ifconfig
+   35  git clone -b Limachi https://github.com/xaxwtf/TP_SO_i3_Equipo6
+   36  git status
+   37  git add .
+   38  git commit -m "mi commit 3"
+   39  git push -f origin Limachi
+   40  history >> ComandosCisa
+   41  history > ComandosCisa
+   42  history >> ComandosCisa.txt
