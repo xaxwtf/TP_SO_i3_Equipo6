@@ -6,13 +6,16 @@ Apellido y nombre de los alumnos que participaron de la interacción
 a-¿Como Queda El master después de estos cambios?
 
 con el archivo beta.txt en el
+
 b-¿Beta pudo ver todos los cambios que se realizaron?
 si
+
 c-¿La ramas creadas por BETA y GAMMA quedan con datos actualizados?
 si
+
 d-¿Detalle los problemas que tuvieron al hacer el merge?
 ninguno
-e- realizar un listado con los apellidos y nombre de los alumnos , junto con los comando y
 
+e- realizar un listado con los apellidos y nombre de los alumnos , junto con los comando y
 orden de ejecución de los mismos, que debieron usar para este TP y Guardarlo en el
 master como ComandosPorUsuario.txt
