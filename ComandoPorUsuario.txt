@@ -1,0 +1,12 @@
+Comandos Lodolatomas
+
+git clone -b nombre_de_la_rama link_del_repositorio
+
+git branch -> Muestra todas las ramas del proyecto
+
+// Realizando commits en la rama actual
+
+git status -> Me fijo los cambios
+git add .
+git commit -m "Comentario"
+git push -u origin nombre_de_la_rama
