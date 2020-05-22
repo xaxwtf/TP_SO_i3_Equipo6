@@ -83,3 +83,26 @@ Comandos Cisa Nahuel
    40  history >> ComandosCisa
    41  history > ComandosCisa
    42  history >> ComandosCisa.txt
+
+Limachi Ramos Sergio Ariel
+   1 git clone -b cisa https://github.com/xaxwtf/TP_SO_i3_Equipo6.git
+   2 git status
+   3 git add .
+   4 git status
+   5 git commit -m "beta"
+   6 git push -f
+   7 git branch Limachi
+   8 git checkout Limachi
+   9 git status
+  10 git add .
+  11 git status
+  12 git commit -m "beta"
+  13 git push -u origin Limachi
+  14 git checkout Limachi beta.txt
+  15 git status
+  16 git add .
+  17 git status
+  18 git commit -m "beta"
+  19 git push 
+ 
+   
