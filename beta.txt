@@ -1,0 +1,63 @@
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::39c2:b15a:8b3:cec7  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:e7:bd:ea  txqueuelen 1000  (Ethernet)
+        RX packets 116  bytes 24392 (24.3 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 149  bytes 15620 (15.6 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 69  bytes 6019 (6.0 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 69  bytes 6019 (6.0 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+10:54
+
+Nahuel Cisa
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::53a7:9c67:4d7c:83f0  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:06:6b:44  txqueuelen 1000  (Ethernet)
+        RX packets 104528  bytes 117744956 (117.7 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 28695  bytes 3582689 (3.5 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 2105  bytes 263151 (263.1 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2105  bytes 263151 (263.1 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+11:04
+
+
+TOMAS LODOLA
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::1f33:ad18:843:9a03  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:08:4f:8b  txqueuelen 1000  (Ethernet)
+        RX packets 9466  bytes 8200273 (8.2 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4406  bytes 520273 (520.2 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 633  bytes 65755 (65.7 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 633  bytes 65755 (65.7 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+Fri May 22 11:10:53 -03 2020
